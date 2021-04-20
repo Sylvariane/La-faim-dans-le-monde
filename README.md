@@ -1,4 +1,5 @@
-# La faim dans le monde
+# Réalisez une étude de santé publique (Projet OpenClassRooms)
+
 Ce premier projet réalisé en Python se compose de trois Notebook et une présentation sous forme de slides contenant : 
 - Le code nécessaire pour répondre à des questions données
 - Le code permettant de créer des tables dans une base de données sous PostgreSQL
@@ -13,3 +14,5 @@ Le but de ce projet était d'acquérir les compétences suivantes :
 - Maîtriser les bases de Python
 
 Ce projet a été évalué le 20 juillet 2020 et validé par un évaluateur.
+
+*Notebook du projet disponible ici :* [GitHub](https://github.com/Sylvariane/La-faim-dans-le-monde/blob/master/P03_01_coder%C3%A9ponses.ipynb)
