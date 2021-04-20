@@ -1,4 +1,4 @@
-# Réalisez une étude de santé publique (Projet OpenClassRooms)
+# Réalisez une étude de santé publique (Projet OpenClassrooms)
 
 *Notebook du projet disponible ici :* [GitHub](https://github.com/Sylvariane/La-faim-dans-le-monde/blob/master/P03_01_coder%C3%A9ponses.ipynb)
 
